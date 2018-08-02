@@ -15,7 +15,7 @@ public class Main {
 
         while(true){
 
-            System.out.println("Podaj imie partnera");
+            System.out.println("Podaj imie partnerahhhhh");
             name1 = input.next();
 
             if(name1.equals(No_MORE_NAMES)){
